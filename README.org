@@ -1,0 +1,10 @@
+* cl-locatives
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stylewarning/cl-locatives.git   |
+| commit  | e52c379  |
+| systems | cl-locatives |
+|---------+-------------------------------------------|
+
